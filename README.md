@@ -44,7 +44,7 @@ This directory includes the implementation of the pipeline using Dagster for orc
 
   [destination.filesystem.credentials]
   aws_access_key_id = "Access_key_id"
-  aws_secret_access_key = "Secret_access_key"```
+  aws_secret_access_key = "Secret_access_key"
 ```
 3. Run the pipeline scripts:
 ```bash
