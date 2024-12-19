@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bluesky-to-S3-dlt-pipeline
 
 A Python-based pipeline project designed to fetch data from the Bluesky API and load it into an S3 bucket. This repository includes two implementations: 
